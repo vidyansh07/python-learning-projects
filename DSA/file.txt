@@ -1,0 +1,15 @@
+total 76
+-rw-r--r-- 1 vidya 197609  6757 Aug 10  2024 ds.py
+-rw-r--r-- 1 vidya 197609  1354 Mar 16 17:30 file.txt
+-rw-r--r-- 1 vidya 197609 45331 Oct  5 13:13 index.py
+-rw-r--r-- 1 vidya 197609  6125 Aug 10  2024 index2.py
+-rw-r--r-- 1 vidya 197609  1370 Aug 10  2024 new.py
+-rw-r--r-- 1 vidya 197609   890 Mar 16 17:31 taskManager.py
+
+total 76
+-rw-r--r-- 1 vidya 197609  6757 Aug 10  2024 ds.py
+-rw-r--r-- 1 vidya 197609  1354 Mar 16 17:30 file.txt
+-rw-r--r-- 1 vidya 197609 45331 Oct  5 13:13 index.py
+-rw-r--r-- 1 vidya 197609  6125 Aug 10  2024 index2.py
+-rw-r--r-- 1 vidya 197609  1370 Aug 10  2024 new.py
+-rw-r--r-- 1 vidya 197609   890 Mar 16 17:31 taskManager.py
